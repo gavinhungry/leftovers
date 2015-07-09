@@ -1,0 +1,26 @@
+{
+  "name": "leftovers",
+  "version": "0.0.0",
+  "author": "Gavin Lloyd <gavinhungry@gmail.com>",
+  "description": "Delete everything in a directory except for specified files",
+  "license": "MIT",
+
+  "keywords": [
+    "delete",
+    "rm"
+  ],
+
+  "homepage": "https://github.com/gavinhungry/leftovers",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gavinhungry/leftovers.git"
+  },
+
+  "main": "leftovers.js",
+
+  "dependencies": {
+    "async": "1.3.x",
+    "del": "1.2.x",
+    "glob": "5.0.x"
+  }
+}
