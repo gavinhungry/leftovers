@@ -22,7 +22,7 @@ leftovers('path/to/files', [
 Everything in `path/to/files` will be deleted, except:
 
   * `foo/`
-  * `foo/bar`
+  * `foo/bar/`
   * `foo/bar/baz.js`
   * `my/dir/`
 
