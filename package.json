@@ -1,6 +1,6 @@
 {
   "name": "leftovers",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Gavin Lloyd <gavinhungry@gmail.com>",
   "description": "Delete everything in a directory except for specified files",
   "license": "MIT",
